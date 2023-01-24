@@ -82,7 +82,7 @@ Mithilfe von OpenHab können die im OpenHabserver des Labors eingebundenen Gerä
 
 Die _Flipmouse_ haben wir verwendet, als Ersatz für eine physische Maus. Gerald kann seine Hände nicht für eine physische Maus verwenden, jedoch verfügt er über generelle Mundfunktionen(bewegen, pusten, saugen). Mit dem Mund kann er dann über die Flipmaus den Windows-Mauszeiger in alle Richtungen steuern. Mit dem Pusten und Saugen kann ein Rechts- bzw. Linksklick simuliert werden. In unserem Fall wird aus hygienischen Gründen das saugen und pusten durch zwei Knöpfe getauscht.
 
-Screenshots von FlipMouse und ihre Einstellung $$$$$$$
+![Alt text](./Screenshots/Flipmouse_Button_conf.png)
 
 Für die Einstellung von der Flipmouse haben wir folgende Seite verwendet:\
 <https://flipmouse.asterics.eu/index_fm.htm#tabStick>
@@ -140,6 +140,20 @@ Das _Asterics Runtime Enviroment_ oder kurz _ARE_ ermöglicht uns Befehle vom As
 
 ##FittsTask2D## 
 Der _FittsTask2D_ ist eine Evaluierungsmethode für Eingabemethoden. Mithilfe von diesem kann eine so genannte MeanTime (MT) errechnet werden, welche die Durchschnittszeit zwischen dem erreichen von 2 ausgewählten Punkten am Bildschirm angibt.
+Folgende Screenshots zeigen die Gesamtzusammenfassung des Tasks, und den besten und schlechtesten Versuch.
+
+![Alt text](./Screenshots/Fittstask_Final_summary.png)
+
+bester Versuch:
+
+![Alt text](./Screenshots/FittsTrace_best.png)
+
+schlechtester Versuch:
+
+
+![Alt text](./Screenshots/FittsTrace_worst.png)
+
+im Ordner ./Screenshots können noch weitere Versuche begutachtet werden
 
 
 ##wichtige Informationen:##
