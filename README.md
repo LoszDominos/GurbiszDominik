@@ -138,7 +138,15 @@ Das _Asterics Runtime Enviroment_ oder kurz _ARE_ ermöglicht uns Befehle vom As
 
 
 
-##FittsTask2D## $$$$$$
+##FittsTask2D## 
+Der _FittsTask2D_ ist eine Evaluierungsmethode für Eingabemethoden. Mithilfe von diesem kann eine so genannte MeanTime (MT) errechnet werden, welche die Durchschnittszeit zwischen dem erreichen von 2 ausgewählten Punkten am Bildschirm angibt.
+
+
+##wichtige Informationen:##
+•	https://www.nirsoft.net/utils/nircmd.html <-- Link zur MS Bibliotek für Systemsteuerungen
+•	atlab.txt muss im directory C:\Users\<user> gespeichert werden
+•	das nircmd tool muss im Ordner C:\Users\Lenovo\Desktop\FH\Semester 3\ATLAB\nircmd-x64 gespeichert werden oder das FABI macro (Knopf 5) muss bearbeitet werden.
+
 
 
 
